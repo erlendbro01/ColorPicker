@@ -1,0 +1,7 @@
+{
+    "name": "com.erlend.test",
+    "version": "1.0.0",
+    "displayName": "Color Picker",
+    "description": "Pick skin color on the Quest 2 hands",
+    "unity": "2019.4,"
+}
